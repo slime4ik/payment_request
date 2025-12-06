@@ -11,8 +11,8 @@
 > (должна быть поднята база(postgreSQL с именем request, можно использовать sqlite или просто запустить проект через докер)
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/slime4ik/account.git
-cd account
+git clone https://github.com/slime4ik/payment_request.git
+cd payment_request
 
 # 2. Создай и активируй env
 uv venv env
